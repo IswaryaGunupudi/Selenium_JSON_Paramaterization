@@ -1,0 +1,63 @@
+{
+  "TestCase01": {
+    "username":"standard_user",
+    "password": "secret_sauce"
+  },
+  "TestCase02": {
+    "username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "TestCase03": {
+    "Username": "problem_user",
+    "Password": "1234"
+  },
+  "TestCase04": {
+    "Username": "problem_user",
+    "Password": "secret_sauce"
+  },
+  "TestCase05": {
+    "Username": "standard_user",
+    "Password": "12345"
+  },
+  "TestCase06": {
+    "Username": "problem_user_problem",
+    "Password": "secret_sauce"
+  },
+  "TestCase07": {
+    "Username": "user",
+    "Password": "12345"
+  },
+  "TestCase08": {
+    "Username": "problem_user",
+    "Password": "secret_sauce"
+  },
+  "TestCase09": {
+    "Username": "standard_user",
+    "Password": "riamadhu"
+  },
+  "TestCase10": {
+    "Username": "problem",
+    "Password": "secret"
+  },
+  "TestCase11": {
+    "Username": "standard_user",
+    "Password": "secret_sauce"
+  },
+  "TestCase12": {
+    "Username": "problem_user",
+    "Password": "secret_sauce"
+  },
+  "TestCase13": {
+    "Username": "standard_user",
+    "Password": "madhu@1"
+  },
+  "TestCase14": {
+    "Username": "standard_user",
+    "Password": "madhu@123"
+  },
+  "TestCase15": {
+    "Username": "standard_user",
+    "Password": "ishu@123"
+  }
+
+}

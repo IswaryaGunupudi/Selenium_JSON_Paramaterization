@@ -1,0 +1,84 @@
+{
+  "userlogins" : [
+    {
+      "username":"standard_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "problem_user",
+      "password": "1234"
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "standard_user",
+      "password": "12345"
+
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_saucers"
+    },
+    {
+      "username": "standard_user",
+      "password": "12345"
+
+    },
+    {
+      "username": "user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "standard",
+      "password": "123@1"
+
+    },
+    {
+      "username": "iswarya",
+      "password": "secret"
+    },
+    {
+      "username": "standard_user",
+      "password": "123456789"
+
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "standuser",
+      "password": "1234509"
+
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "standard_user",
+      "password": "secret_sauce"
+
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "standard_user",
+      "password": "madhurya"
+
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    {
+      "username": "standard_user",
+      "password": "ishumadhu"
+
+    }
+  ]
+}
